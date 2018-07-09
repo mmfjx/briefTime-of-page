@@ -9,7 +9,6 @@
             "38": "images/icon38.png"
         },
         "default_title": "brief timing"
-        // "default_popup": "popup.html"
     },
     "permissions": [
         "tabs",
